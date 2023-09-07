@@ -31,7 +31,8 @@ var melee =
 "Victorian broadsword",
 "shortsword",
 "mace",
-"bottle of vodka"];
+"bottle of vodka",
+"phone",];
 
 var itemsToFind =
 ["fruit tree",
@@ -179,7 +180,8 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel"];
+"brothel",
+"beached whale"];
 
 var cornucopia =
 ["run",
@@ -212,7 +214,8 @@ var sponsor =
 "indescribable object",
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
-"freeze ray"];
+"freeze ray",
+"Rslashcursedcomments"];
 
 var misc =
 ["wanders around",
@@ -293,7 +296,8 @@ var injury =
 "gets an ulcer",
 "develops stage 4 brain cancer",
 "gets necrosis",
-"gets forced into fall mentorship"];
+"gets forced into fall mentorship"
+"attempts to leave, but is stopped"];
 
 var injEffect =
 ["bow",
@@ -331,7 +335,7 @@ var variousDeaths =
 "gets hit by a hurricane",
 "falls through a portal into the blender dimension",
 "loses circulation looking too good in those tight shorts",
-"loses circulation looking too tight in those good shorts",
+"gets blown up",
 "fell into the void",
 "was slain by a zombie pigman",
 "withered away",
